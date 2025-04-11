@@ -91,7 +91,7 @@
     <h2>About the Band</h2>
     <p>
       From the misty catacombs beneath the old world (The Netherlands), Vampyricus rises with a sound drenched in dread and beauty. 
-      Combining (doom) Metal and Tragic tales of the nosferatu of the world, lead by the first and only member 'Count Lazarus', Vampyricus delivers metal that echoes 
+      Combining (sigma) metal and Tragic tales of the nosferatu of the world, lead by the first and only member 'Count Lazarus', Vampyricus delivers metal that echoes 
       through eternity.
     </p>
   </section>
